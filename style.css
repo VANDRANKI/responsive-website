@@ -3,14 +3,12 @@
   padding: 0px;
   box-sizing: border-box;
 }
-
 body {
   font-family: "poppins", sans-serif;
 }
 button {
   font-family: "poppins", sans-serif;
 }
-
 header {
   display: flex;
   width: 90%;
@@ -23,7 +21,6 @@ header {
 .cart {
   display: flex;
 }
-
 .logo-container {
   flex: 1;
 }
